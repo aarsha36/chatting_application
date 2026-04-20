@@ -139,8 +139,7 @@ http://localhost:5173
 
 <img width="1919" height="847" alt="Screenshot 2026-04-20 144725" src="https://github.com/user-attachments/assets/cd5c9f88-9e6f-4da5-96d9-cdf5524f2155" />
 
-
-
+*Different browser
 
 <img width="1919" height="858" alt="Screenshot 2026-04-20 144716" src="https://github.com/user-attachments/assets/e90428a7-7df7-4ae4-8592-4297892e5561" />
 

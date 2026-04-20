@@ -143,5 +143,17 @@ http://localhost:5173
 
 <img width="1919" height="858" alt="Screenshot 2026-04-20 144716" src="https://github.com/user-attachments/assets/e90428a7-7df7-4ae4-8592-4297892e5561" />
 
+*Frontend running
+
+<img width="966" height="315" alt="Screenshot 2026-04-20 150641" src="https://github.com/user-attachments/assets/e7ff674b-ae42-4f22-bf51-86e61cc8a54f" />
+
+<img width="964" height="348" alt="Screenshot 2026-04-20 150657" src="https://github.com/user-attachments/assets/f336d49f-ee46-48ee-9a91-1b82bd05da35" />
+
+*Backend running
+
+<img width="1261" height="437" alt="Screenshot 2026-04-20 150534" src="https://github.com/user-attachments/assets/6e056783-c1c0-4744-9508-a5ad543cbc83" />
+
+<img width="1263" height="707" alt="Screenshot 2026-04-20 150614" src="https://github.com/user-attachments/assets/adbc3ebc-352d-488a-b635-0d8336d2daa3" />
+
 
 
